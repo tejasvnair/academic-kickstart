@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rolf Pohmann | Tejas Nair</title>
+    <link>/authors/rolf-pohmann/</link>
+      <atom:link href="/authors/rolf-pohmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rolf Pohmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rolf Pohmann</title>
+      <link>/authors/rolf-pohmann/</link>
+    </image>
+    
+    <item>
+      <title>Respiratory motion prediction and prospective correction for free-breathing arterial spin-labeled perfusion MRI of the kidneys</title>
+      <link>/publication/resp_pred/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/resp_pred/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aliasing, Off-Resonance Saturation, and Residual Signal Analysis for PCASL</title>
+      <link>/publication/ismrm-pcasl/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ismrm-pcasl/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

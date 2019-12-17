@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Tejas Nair</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m a Staff Engineer with the research division of Samsung Electronics in Seoul.&lt;/p&gt;
+&lt;p&gt;I&#39;ve 10+ years of R&amp;amp;D experience in Image Processing, Medical Imaging, Video Processing applied to devices ranging from Smartphone Camera, TV to Medical Imaging Devices using traditional and machine learning based methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kwang Pyo Choi</title>
+      <link>/authors/kwang-pyo-choi/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kwang-pyo-choi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minseok Choi</title>
+      <link>/authors/minseok-choi/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/minseok-choi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pilkyu Park</title>
+      <link>/authors/pilkyu-park/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/pilkyu-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaesung Lee</title>
+      <link>/authors/jaesung-lee/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jaesung-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tammy Lee</title>
+      <link>/authors/tammy-lee/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tammy-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Ruan</title>
+      <link>/authors/dan-ruan/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/dan-ruan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Michael Gach</title>
+      <link>/authors/h.-michael-gach/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-michael-gach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Song</title>
+      <link>/authors/hao-song/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/hao-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaehee Kwak</title>
+      <link>/authors/jaehee-kwak/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jaehee-kwak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jihwan Woo</title>
+      <link>/authors/jihwan-woo/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jihwan-woo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingfei Ma</title>
+      <link>/authors/jingfei-ma/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jingfei-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingqin Luo</title>
+      <link>/authors/jingqin-luo/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jingqin-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John D. Hazle</title>
+      <link>/authors/john-d.-hazle/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/john-d.-hazle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria A. Fernandez-Seara</title>
+      <link>/authors/maria-a.-fernandez-seara/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-a.-fernandez-seara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolf Pohmann</title>
+      <link>/authors/rolf-pohmann/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/rolf-pohmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sungkyu Jung</title>
+      <link>/authors/sungkyu-jung/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/sungkyu-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taeyeon Na</title>
+      <link>/authors/taeyeon-na/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/taeyeon-na/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Andrew Stenger</title>
+      <link>/authors/v.-andrew-stenger/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-andrew-stenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenyang Liu</title>
+      <link>/authors/wenyang-liu/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/wenyang-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young-Yoon Lee</title>
+      <link>/authors/young-yoon-lee/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/young-yoon-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuichi Motai</title>
+      <link>/authors/yuichi-motai/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/yuichi-motai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James T. Symanowski</title>
+      <link>/authors/james-t.-symanowski/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/james-t.-symanowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arvind Balachandrasekaran</title>
+      <link>/authors/arvind-balachandrasekaran/</link>
+      <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/arvind-balachandrasekaran/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
