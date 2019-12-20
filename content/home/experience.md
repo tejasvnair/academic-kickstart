@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * AI-HDR (Artificial Intelligence based High Dynamic Range Video processing)
-  * Deep learning based Image Denoising for Camera
+  * Deep learning based Image Denoising for Mobile Phone Camera
   * Medical Image Processing: Lung Fissure & Lobe segmentation from CT images for Emphysema Quantification
   * Pixel mapping algorithm for interlaced view generation for 3D Head Up Display
   """
@@ -74,9 +74,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Developed/Integrated calibration algorithms for multi-slice CT Scanners
-  * Developed image analysis tools in MATLAB
-  * Performed evaluation and integration of X-ray tubes for Product development
-  """
+  * Developed image analysis tools 
+  * Performed evaluation and integration of X-ray tubes for Product development """
 
  [[experience]]
   title = "Graduate Research Assistant"
@@ -88,7 +87,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Developed an analytic technique for the calibration of CT Scanners in MATLAB    , which will lead to improved clinical image quality for better diagnosis
+  * Developed an analytic technique for the calibration of CT Scanners, which will lead to improved clinical image quality for better diagnosis
   """
 
  
