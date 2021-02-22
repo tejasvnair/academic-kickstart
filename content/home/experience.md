@@ -27,6 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
+  * Deep Learning based Camera ISP 
+  * Deep Learning based low light image enhancement for smartphone camera
   * AI-HDR (Artificial Intelligence based High Dynamic Range Video processing)
   * Deep learning based Image Denoising for Mobile Phone Camera
   * Medical Image Processing: Lung Fissure & Lobe segmentation from CT images for Emphysema Quantification

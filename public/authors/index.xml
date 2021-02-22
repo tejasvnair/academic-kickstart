@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,35 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&#39;m a Staff Engineer with the research division of Samsung Electronics in Seoul.&lt;/p&gt;
 &lt;p&gt;I&#39;ve 10+ years of R&amp;amp;D experience in Image Processing, Medical Imaging, Video Processing applied to devices ranging from Smartphone Camera, TV to Medical Imaging Devices using traditional and machine learning based methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jaesung Lee</title>
+      <link>/authors/jaesung-lee/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jaesung-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tammy Lee</title>
+      <link>/authors/tammy-lee/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tammy-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youngjin Yoon</title>
+      <link>/authors/youngjin-yoon/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/youngjin-yoon/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -43,22 +67,6 @@
       <link>/authors/pilkyu-park/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/pilkyu-park/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jaesung Lee</title>
-      <link>/authors/jaesung-lee/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jaesung-lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tammy Lee</title>
-      <link>/authors/tammy-lee/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/tammy-lee/</guid>
       <description></description>
     </item>
     
