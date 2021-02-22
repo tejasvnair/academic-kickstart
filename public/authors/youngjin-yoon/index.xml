@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tammy Lee | Tejas Nair</title>
-    <link>/authors/tammy-lee/</link>
-      <atom:link href="/authors/tammy-lee/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tammy Lee</description>
+    <title>Youngjin Yoon | Tejas Nair</title>
+    <link>/authors/youngjin-yoon/</link>
+      <atom:link href="/authors/youngjin-yoon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Youngjin Yoon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Tammy Lee</title>
-      <link>/authors/tammy-lee/</link>
+      <title>Youngjin Yoon</title>
+      <link>/authors/youngjin-yoon/</link>
     </image>
     
     <item>
@@ -17,16 +17,6 @@
       <link>/publication/nrresnet/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/publication/nrresnet/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Electronic device, image processing method thereof, and computer-readable recording medium</title>
-      <link>/patent/patent/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/patent/patent/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

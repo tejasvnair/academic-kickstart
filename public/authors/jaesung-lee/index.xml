@@ -5,12 +5,22 @@
     <link>/authors/jaesung-lee/</link>
       <atom:link href="/authors/jaesung-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaesung Lee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jaesung Lee</title>
       <link>/authors/jaesung-lee/</link>
     </image>
+    
+    <item>
+      <title>Adaptive image denoising using a deep neural network with a noise correction map</title>
+      <link>/publication/nrresnet/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nrresnet/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Electronic device, image processing method thereof, and computer-readable recording medium</title>

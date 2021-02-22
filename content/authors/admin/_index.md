@@ -22,8 +22,8 @@ organizations:
 bio: Interested in Image/Video processing, Machine Learning, Medical Imaging...
 
 interests:
-- Image/Video Processing
-- Machine Learning
+- Deep Learning / Machine Learning
+- Image / Video Processing
 - Medical Imaging
 
 education:

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="MRI techniques that have long acquisition deadtimes and are highly sensitive to motion (e.g., subtraction techniques like arterial spin labeling) can greatly benefit from predictive motion correction. Two Kalman filter based prediction models [the constant velocity (CV) and the interacting multiple model (IMM)] and a weighted fourier linear combiner (WFLC) algorithm were evaluated for respiratory motion prediction. The CV model, IMM and WFLC predicted organ motion 1 s into the future with a root mean square error of &gt;6.6 mm, &gt;5.3 mm and &gt;1.5 mm, respectively. The CV model is computationally the fastest algorithm followed by IMM and WFLC.">
+  <meta name="description" content="Smartphone camera is becoming the primary choice for photography among general users due to its convenience and rapidly improving image quality. However, it is more prone to noise compared to a professional DSLR camera due to a smaller sensor. Image noise, especially in low-light situations, is a critical problem that must be addressed to obtain high quality photos. Image denoising has thus remained an important low level vision topic over years with both traditional and learning based techniques used for mitigating this problem. We propose an adaptive Deep Neural Network based Noise Reduction (DNN-NR) algorithm to address the denoising problem in smartphone images. Image noise was modeled from photos captured under different light settings using a Poisson-Gaussian noise model which better approximates the signaldependence (photon sensing) and stationary disturbances in the sensor data. Using this noise model, synthetic noisy datasets were prepared to mimic photos captured under varying light conditions and train the network. A noise correction map based on camera and image information like ISO, vignetting map and image gray level was provided as an input to the network. This correction map provides an indication of the local noise level to help the network adaptively denoise photos. Experimental results show that our adaptive neural network based denoising approach produced a significantly better denoised image with higher PSNR and MOS quality scores in comparison to a standard denoising method like CBM3D across varying light conditions. In addition, using a locally varying noise map helped in preserving more detail in denoised images.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/ismrm-resp/">
+  <link rel="alternate" hreflang="en-us" href="/publication/nrresnet/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/ismrm-resp/">
+  <link rel="canonical" href="/publication/nrresnet/">
 
   
   
@@ -111,15 +111,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Tejas Nair">
-  <meta property="og:url" content="/publication/ismrm-resp/">
-  <meta property="og:title" content="Comparison of Algorithms for Prediction of Respiratory Motion | Tejas Nair">
-  <meta property="og:description" content="MRI techniques that have long acquisition deadtimes and are highly sensitive to motion (e.g., subtraction techniques like arterial spin labeling) can greatly benefit from predictive motion correction. Two Kalman filter based prediction models [the constant velocity (CV) and the interacting multiple model (IMM)] and a weighted fourier linear combiner (WFLC) algorithm were evaluated for respiratory motion prediction. The CV model, IMM and WFLC predicted organ motion 1 s into the future with a root mean square error of &gt;6.6 mm, &gt;5.3 mm and &gt;1.5 mm, respectively. The CV model is computationally the fastest algorithm followed by IMM and WFLC."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/nrresnet/">
+  <meta property="og:title" content="Adaptive image denoising using a deep neural network with a noise correction map | Tejas Nair">
+  <meta property="og:description" content="Smartphone camera is becoming the primary choice for photography among general users due to its convenience and rapidly improving image quality. However, it is more prone to noise compared to a professional DSLR camera due to a smaller sensor. Image noise, especially in low-light situations, is a critical problem that must be addressed to obtain high quality photos. Image denoising has thus remained an important low level vision topic over years with both traditional and learning based techniques used for mitigating this problem. We propose an adaptive Deep Neural Network based Noise Reduction (DNN-NR) algorithm to address the denoising problem in smartphone images. Image noise was modeled from photos captured under different light settings using a Poisson-Gaussian noise model which better approximates the signaldependence (photon sensing) and stationary disturbances in the sensor data. Using this noise model, synthetic noisy datasets were prepared to mimic photos captured under varying light conditions and train the network. A noise correction map based on camera and image information like ISO, vignetting map and image gray level was provided as an input to the network. This correction map provides an indication of the local noise level to help the network adaptively denoise photos. Experimental results show that our adaptive neural network based denoising approach produced a significantly better denoised image with higher PSNR and MOS quality scores in comparison to a standard denoising method like CBM3D across varying light conditions. In addition, using a locally varying noise map helped in preserving more detail in denoised images."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2011-05-09T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-08-21T00:00:00&#43;00:00">
   
 
   
@@ -143,12 +143,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/ismrm-resp/"
+    "@id": "/publication/nrresnet/"
   },
-  "headline": "Comparison of Algorithms for Prediction of Respiratory Motion",
+  "headline": "Adaptive image denoising using a deep neural network with a noise correction map",
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2011-05-09T00:00:00Z",
+  "dateModified": "2020-08-21T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -163,7 +163,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "MRI techniques that have long acquisition deadtimes and are highly sensitive to motion (e.g., subtraction techniques like arterial spin labeling) can greatly benefit from predictive motion correction. Two Kalman filter based prediction models [the constant velocity (CV) and the interacting multiple model (IMM)] and a weighted fourier linear combiner (WFLC) algorithm were evaluated for respiratory motion prediction. The CV model, IMM and WFLC predicted organ motion 1 s into the future with a root mean square error of \u003e6.6 mm, \u003e5.3 mm and \u003e1.5 mm, respectively. The CV model is computationally the fastest algorithm followed by IMM and WFLC."
+  "description": "Smartphone camera is becoming the primary choice for photography among general users due to its convenience and rapidly improving image quality. However, it is more prone to noise compared to a professional DSLR camera due to a smaller sensor. Image noise, especially in low-light situations, is a critical problem that must be addressed to obtain high quality photos. Image denoising has thus remained an important low level vision topic over years with both traditional and learning based techniques used for mitigating this problem. We propose an adaptive Deep Neural Network based Noise Reduction (DNN-NR) algorithm to address the denoising problem in smartphone images. Image noise was modeled from photos captured under different light settings using a Poisson-Gaussian noise model which better approximates the signaldependence (photon sensing) and stationary disturbances in the sensor data. Using this noise model, synthetic noisy datasets were prepared to mimic photos captured under varying light conditions and train the network. A noise correction map based on camera and image information like ISO, vignetting map and image gray level was provided as an input to the network. This correction map provides an indication of the local noise level to help the network adaptively denoise photos. Experimental results show that our adaptive neural network based denoising approach produced a significantly better denoised image with higher PSNR and MOS quality scores in comparison to a standard denoising method like CBM3D across varying light conditions. In addition, using a locally varying noise map helped in preserving more detail in denoised images."
 }
 </script>
 
@@ -181,7 +181,7 @@
 
 
 
-  <title>Comparison of Algorithms for Prediction of Respiratory Motion | Tejas Nair</title>
+  <title>Adaptive image denoising using a deep neural network with a noise correction map | Tejas Nair</title>
 
 </head>
 
@@ -464,7 +464,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Comparison of Algorithms for Prediction of Respiratory Motion</h1>
+  <h1>Adaptive image denoising using a deep neural network with a noise correction map</h1>
 
   
 
@@ -484,7 +484,7 @@
 
 
   
-  <span>Tejas Nair</span>, <span>H. Michael Gach</span>
+  <span>Tejas Nair</span>, <span>Jaesung Lee</span>, <span>Youngjin Yoon</span>, <span>Tammy Lee</span>
 
   </div>
   
@@ -496,7 +496,7 @@
     
       
     
-    May 2011
+    August 2020
   </span>
   
 
@@ -568,7 +568,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.ismrm.org/11/EPL4.htm" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11510/2567586/Adaptive-image-denoising-using-a-deep-neural-network-with-a/10.1117/12.2567586.short" target="_blank" rel="noopener">
     
     Link
   </a>
@@ -586,7 +586,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">MRI techniques that have long acquisition deadtimes and are highly sensitive to motion (e.g., subtraction techniques like arterial spin labeling) can greatly benefit from predictive motion correction. Two Kalman filter based prediction models [the constant velocity (CV) and the interacting multiple model (IMM)] and a weighted fourier linear combiner (WFLC) algorithm were evaluated for respiratory motion prediction. The CV model, IMM and WFLC predicted organ motion 1 s into the future with a root mean square error of &gt;6.6 mm, &gt;5.3 mm and &gt;1.5 mm, respectively. The CV model is computationally the fastest algorithm followed by IMM and WFLC.</p>
+    <p class="pub-abstract">Smartphone camera is becoming the primary choice for photography among general users due to its convenience and rapidly improving image quality. However, it is more prone to noise compared to a professional DSLR camera due to a smaller sensor. Image noise, especially in low-light situations, is a critical problem that must be addressed to obtain high quality photos. Image denoising has thus remained an important low level vision topic over years with both traditional and learning based techniques used for mitigating this problem. We propose an adaptive Deep Neural Network based Noise Reduction (DNN-NR) algorithm to address the denoising problem in smartphone images. Image noise was modeled from photos captured under different light settings using a Poisson-Gaussian noise model which better approximates the signaldependence (photon sensing) and stationary disturbances in the sensor data. Using this noise model, synthetic noisy datasets were prepared to mimic photos captured under varying light conditions and train the network. A noise correction map based on camera and image information like ISO, vignetting map and image gray level was provided as an input to the network. This correction map provides an indication of the local noise level to help the network adaptively denoise photos. Experimental results show that our adaptive neural network based denoising approach produced a significantly better denoised image with higher PSNR and MOS quality scores in comparison to a standard denoising method like CBM3D across varying light conditions. In addition, using a locally varying noise map helped in preserving more detail in denoised images.</p>
     
 
     
@@ -616,7 +616,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Proceedings of the 19th scientific meeting of the ISMRM</em></div>
+          <div class="col-12 col-md-9">In <em>Proceedings of SPIE, 11510, Applications of Digital Image Processing XLIII</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -649,7 +649,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/ismrm-resp/&amp;text=Comparison%20of%20Algorithms%20for%20Prediction%20of%20Respiratory%20Motion" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/nrresnet/&amp;text=Adaptive%20image%20denoising%20using%20a%20deep%20neural%20network%20with%20a%20noise%20correction%20map" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -662,7 +662,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/ismrm-resp/&amp;t=Comparison%20of%20Algorithms%20for%20Prediction%20of%20Respiratory%20Motion" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/nrresnet/&amp;t=Adaptive%20image%20denoising%20using%20a%20deep%20neural%20network%20with%20a%20noise%20correction%20map" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -675,7 +675,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Comparison%20of%20Algorithms%20for%20Prediction%20of%20Respiratory%20Motion&amp;body=/publication/ismrm-resp/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Adaptive%20image%20denoising%20using%20a%20deep%20neural%20network%20with%20a%20noise%20correction%20map&amp;body=/publication/nrresnet/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -688,7 +688,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/ismrm-resp/&amp;title=Comparison%20of%20Algorithms%20for%20Prediction%20of%20Respiratory%20Motion" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/nrresnet/&amp;title=Adaptive%20image%20denoising%20using%20a%20deep%20neural%20network%20with%20a%20noise%20correction%20map" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -701,7 +701,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Comparison%20of%20Algorithms%20for%20Prediction%20of%20Respiratory%20Motion%20/publication/ismrm-resp/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Adaptive%20image%20denoising%20using%20a%20deep%20neural%20network%20with%20a%20noise%20correction%20map%20/publication/nrresnet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -714,7 +714,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/ismrm-resp/&amp;title=Comparison%20of%20Algorithms%20for%20Prediction%20of%20Respiratory%20Motion" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/nrresnet/&amp;title=Adaptive%20image%20denoising%20using%20a%20deep%20neural%20network%20with%20a%20noise%20correction%20map" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
